@@ -1,7 +1,6 @@
 // Package myassert provides a simple assertion function for standard Go code,
 // similar to Python's assert statement.
 package assert
-
 import "fmt"
 
 // Enabled controls whether assertions are active. Set to false to disable.
