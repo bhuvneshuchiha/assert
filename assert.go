@@ -3,7 +3,7 @@
 // package assert
 
 
-// // Enabled controls whether assertions are active. Set to false to disable.
+// Enabled controls whether assertions are active. Set to false to disable.
 // var Enabled = true
 
 // // Assert panics if the condition is false, with an optional formatted message.
